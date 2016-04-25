@@ -1,13 +1,4 @@
----
-title: 'Reproducible Research: Peer Assessment 1'
-output:
-  html_document:
-    highlight: null
-    keep_md: yes
-    smart: no
-    theme: journal
-  pdf_document: default
----
+# Reproducible Research: Peer Assessment 1
 
 
 ## Loading and preprocessing the data
